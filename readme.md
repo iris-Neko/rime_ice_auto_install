@@ -10,3 +10,4 @@
 1.下载sh文件
 2.命令行输入 sh chinese_input_rime_ice.sh
 3.跟随命令行提示完成 即可安装成功rime 输入法+雾凇拼音
+经过我自己测试 安装完需要在设置里 选择一下虚拟键盘 wayland 选择那个Wayland 小企鹅
